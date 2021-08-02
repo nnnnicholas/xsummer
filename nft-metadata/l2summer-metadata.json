@@ -1,0 +1,23 @@
+{
+    "title": "L2 Summer",
+    "name": "L2 Summer",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "L2 Summer"
+        },
+        "description": {
+            "type": "string",
+            "description": "Token commemorating L2 Summer, 2021. Minters of this token also received an L2 Summer t-shirt. The t-shirt was only made available to purchasers of this NFT."
+        },
+        "image": {
+            "type": "string",
+            "description": "bafybeia5ptsjey4tokn2vqkupes27uguondtjvc5ewl76jrz7thscnb6ca"
+        },
+        "tokenID": {
+            "trait_type": "int",
+            "description": 1
+        }
+    }
+}
